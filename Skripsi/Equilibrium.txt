@@ -1,0 +1,31 @@
+		
+Draft Amidships m	2,623
+Displacement t	187,2
+Heel deg	0,8
+Draft at FP m	3,071
+Draft at AP m	2,175
+Draft at LCF m	2,572
+Trim (+ve by stern) m	-0,896
+WL Length m	22,715
+Beam max extents on WL m	6,358
+Wetted Area m^2	309,208
+Waterpl. Area m^2	100,102
+Prismatic coeff. (Cp)	0,654
+Block coeff. (Cb)	0,432
+Max Sect. area coeff. (Cm)	0,698
+Waterpl. area coeff. (Cwp)	0,693
+LCB from zero pt. (+ve fwd) m	9,948
+LCF from zero pt. (+ve fwd) m	9,478
+KB m	1,586
+KG fluid m	0,286
+BMt m	1,817
+BML m	24,234
+GMt corrected m	3,119
+GML m	25,536
+KMt m	3,401
+KML m	25,797
+Immersion (TPc) tonne/cm	1,026
+MTc tonne.m	2,232
+RM at 1deg = GMt.Disp.sin(1) tonne.m	10,191
+Max deck inclination deg	2,5203
+Trim angle (+ve by stern) deg	-2,3952

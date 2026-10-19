@@ -1,0 +1,3 @@
+Key point	Type	Freeboard		m
+Margin Line (freeboard pos = 18,079 m)		-2,368
+Deck Edge (freeboard pos = 18,079 m)		-2,293
